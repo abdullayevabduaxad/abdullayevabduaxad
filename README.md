@@ -2,8 +2,7 @@
 <h3 align="center">Developer from Uzbekistan</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abdullayevabduaxad&label=Profile%20views&color=0e75b6&style=flat" alt="abdullayevabduaxad" /> </p>
 <p align="center">
-<img src="https://tenor.com/ru/view/developer-gif-23414225"> 
- </p>
+<div class="tenor-gif-embed" data-postid="23414225" data-share-method="host" data-aspect-ratio="1.20301" data-width="100%"><a href="https://tenor.com/view/developer-gif-23414225">Developer GIF</a>from <a href="https://tenor.com/search/developer-gifs">Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
