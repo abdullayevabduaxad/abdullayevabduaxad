@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Azizbek Rahimjonov</h1>
+<h1 align="center">Hi 👋, I'm Abduaxadjon Abdullayev</h1>
 <h3 align="center">Developer from Uzbekistan</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=azizbekrakhimjonov&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekrakhimjonov" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=abdullayevabduaxad&label=Profile%20views&color=0e75b6&style=flat" alt="abdullayevabduaxad" /> </p>
 <p align="center">
 
 
