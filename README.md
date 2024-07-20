@@ -2,6 +2,8 @@
 <h3 align="center">Developer from Uzbekistan</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abdullayevabduaxad&label=Profile%20views&color=0e75b6&style=flat" alt="abdullayevabduaxad" /> </p>
 <p align="center">
+<img src="https://tenor.com/ru/view/developer-gif-23414225"> 
+ </p>
 
 
 
