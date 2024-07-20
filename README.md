@@ -1,5 +1,5 @@
-                                                                                 👋 Hi, I’m @abdullayevabduaxad
-                                                                                    Developer from Uzbekistan
+👋 Hi, I’m @abdullayevabduaxad
+Developer from Uzbekistan
 
 
 
